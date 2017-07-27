@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "Frank's personal website",
   "private": true,
-  "main": "run",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
