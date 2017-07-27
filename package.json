@@ -1,0 +1,18 @@
+{
+  "name": "frank",
+  "version": "1.0.0",
+  "description": "Frank's personal website",
+  "private": true,
+  "main": "run",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frankt7/frank.git"
+  },
+  "author": "Frank",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
